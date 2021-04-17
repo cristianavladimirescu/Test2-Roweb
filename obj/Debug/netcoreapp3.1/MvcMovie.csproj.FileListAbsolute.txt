@@ -1,0 +1,1248 @@
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\MvcMovie.exe
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\MvcMovie.deps.json
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\MvcMovie.runtimeconfig.json
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\MvcMovie.runtimeconfig.dev.json
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\MvcMovie.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\MvcMovie.pdb
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\MvcMovie.Views.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\MvcMovie.Views.pdb
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.csprojAssemblyReference.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.AssemblyInfoInputs.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.AssemblyInfo.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CoreCompileInputs.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.RazorAssemblyInfo.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.RazorAssemblyInfo.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\staticwebassets\MvcMovie.StaticWebAssets.Manifest.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\staticwebassets\MvcMovie.StaticWebAssets.xml
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\scopedcss\bundle\MvcMovie.styles.css
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.TagHelpers.input.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.TagHelpers.output.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.RazorCoreGenerate.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.RazorTargetAssemblyInfo.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.RazorTargetAssemblyInfo.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.Views.pdb
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.pdb
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.genruntimeconfig.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CopyComplete
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Index.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\MvcMovie.exe
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\MvcMovie.deps.json
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\MvcMovie.runtimeconfig.json
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\MvcMovie.runtimeconfig.dev.json
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\MvcMovie.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\MvcMovie.pdb
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\MvcMovie.Views.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\MvcMovie.Views.pdb
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\MvcMovie.csprojAssemblyReference.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\MvcMovie.AssemblyInfoInputs.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\MvcMovie.AssemblyInfo.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CoreCompileInputs.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\MvcMovie.RazorAssemblyInfo.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\MvcMovie.RazorAssemblyInfo.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\staticwebassets\MvcMovie.StaticWebAssets.Manifest.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\staticwebassets\MvcMovie.StaticWebAssets.xml
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\scopedcss\bundle\MvcMovie.styles.css
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\MvcMovie.TagHelpers.input.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\MvcMovie.TagHelpers.output.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\MvcMovie.RazorCoreGenerate.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Index.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\MvcMovie.RazorTargetAssemblyInfo.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\MvcMovie.RazorTargetAssemblyInfo.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\MvcMovie.Views.pdb
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CopyComplete
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\MvcMovie.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\MvcMovie.pdb
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy\obj\Debug\netcoreapp3.1\MvcMovie.genruntimeconfig.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\MvcMovie.exe
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\MvcMovie.deps.json
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\MvcMovie.runtimeconfig.json
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\MvcMovie.runtimeconfig.dev.json
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\MvcMovie.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\MvcMovie.pdb
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\MvcMovie.Views.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\MvcMovie.Views.pdb
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\MvcMovie.csprojAssemblyReference.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\MvcMovie.AssemblyInfoInputs.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\MvcMovie.AssemblyInfo.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CoreCompileInputs.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\MvcMovie.RazorAssemblyInfo.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\MvcMovie.RazorAssemblyInfo.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\staticwebassets\MvcMovie.StaticWebAssets.Manifest.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\staticwebassets\MvcMovie.StaticWebAssets.xml
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\scopedcss\bundle\MvcMovie.styles.css
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\MvcMovie.TagHelpers.input.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\MvcMovie.TagHelpers.output.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\MvcMovie.RazorCoreGenerate.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Index.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\MvcMovie.RazorTargetAssemblyInfo.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\MvcMovie.RazorTargetAssemblyInfo.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\MvcMovie.Views.pdb
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CopyComplete
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\MvcMovie.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\MvcMovie.pdb
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie - Copy - Copy\obj\Debug\netcoreapp3.1\MvcMovie.genruntimeconfig.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.exe
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.deps.json
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.runtimeconfig.json
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.runtimeconfig.dev.json
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.pdb
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.Views.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.Views.pdb
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.csprojAssemblyReference.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.AssemblyInfoInputs.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.AssemblyInfo.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CoreCompileInputs.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.RazorAssemblyInfo.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.RazorAssemblyInfo.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\staticwebassets\MvcMovie.StaticWebAssets.Manifest.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\staticwebassets\MvcMovie.StaticWebAssets.xml
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\scopedcss\bundle\MvcMovie.styles.css
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.TagHelpers.input.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.TagHelpers.output.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.RazorCoreGenerate.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Index.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.RazorTargetAssemblyInfo.cache
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.RazorTargetAssemblyInfo.cs
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.Views.pdb
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CopyComplete
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.dll
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.pdb
+F:\Udemy Web Development Bootcamp\roweb\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.genruntimeconfig.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.exe
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.deps.json
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.runtimeconfig.json
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.runtimeconfig.dev.json
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.pdb
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.Views.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.Views.pdb
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.csprojAssemblyReference.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.AssemblyInfoInputs.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.AssemblyInfo.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CoreCompileInputs.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.RazorAssemblyInfo.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.RazorAssemblyInfo.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\staticwebassets\MvcMovie.StaticWebAssets.Manifest.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\staticwebassets\MvcMovie.StaticWebAssets.xml
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\scopedcss\bundle\MvcMovie.styles.css
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.TagHelpers.input.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.TagHelpers.output.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.RazorCoreGenerate.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Index.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.RazorTargetAssemblyInfo.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.RazorTargetAssemblyInfo.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.Views.pdb
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CopyComplete
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.pdb
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3)\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.genruntimeconfig.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.exe
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.deps.json
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.runtimeconfig.json
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.runtimeconfig.dev.json
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.pdb
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.Views.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.Views.pdb
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.csprojAssemblyReference.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.AssemblyInfoInputs.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.AssemblyInfo.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CoreCompileInputs.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.RazorAssemblyInfo.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.RazorAssemblyInfo.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\staticwebassets\MvcMovie.StaticWebAssets.Manifest.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\staticwebassets\MvcMovie.StaticWebAssets.xml
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\scopedcss\bundle\MvcMovie.styles.css
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.TagHelpers.input.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.TagHelpers.output.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.RazorCoreGenerate.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Index.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.RazorTargetAssemblyInfo.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.RazorTargetAssemblyInfo.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.Views.pdb
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CopyComplete
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.pdb
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.genruntimeconfig.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.csprojAssemblyReference.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.AssemblyInfoInputs.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.AssemblyInfo.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CoreCompileInputs.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.RazorAssemblyInfo.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.RazorAssemblyInfo.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\staticwebassets\MvcMovie.StaticWebAssets.Manifest.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\staticwebassets\MvcMovie.StaticWebAssets.xml
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\scopedcss\bundle\MvcMovie.styles.css
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.TagHelpers.input.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.TagHelpers.output.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.RazorCoreGenerate.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Index.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.RazorTargetAssemblyInfo.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.RazorTargetAssemblyInfo.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.pdb
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.exe
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.deps.json
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.runtimeconfig.json
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.runtimeconfig.dev.json
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.pdb
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.Views.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.Views.pdb
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.Views.pdb
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CopyComplete
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.genruntimeconfig.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.exe
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.deps.json
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.runtimeconfig.json
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.runtimeconfig.dev.json
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.pdb
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.Views.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\MvcMovie.Views.pdb
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.csprojAssemblyReference.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.AssemblyInfoInputs.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.AssemblyInfo.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CoreCompileInputs.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.RazorAssemblyInfo.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.RazorAssemblyInfo.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\staticwebassets\MvcMovie.StaticWebAssets.Manifest.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\staticwebassets\MvcMovie.StaticWebAssets.xml
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\scopedcss\bundle\MvcMovie.styles.css
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.TagHelpers.input.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.TagHelpers.output.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.RazorCoreGenerate.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Index.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.RazorTargetAssemblyInfo.cache
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.RazorTargetAssemblyInfo.cs
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.Views.pdb
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CopyComplete
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.dll
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.pdb
+F:\Udemy Web Development Bootcamp\roweb\Roweb - Copy (3) MIGR - Copy - Copy\MvcMovie final\obj\Debug\netcoreapp3.1\MvcMovie.genruntimeconfig.cache

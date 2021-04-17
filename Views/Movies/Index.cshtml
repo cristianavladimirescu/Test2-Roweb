@@ -1,0 +1,117 @@
+﻿@model PaginatedList<MvcMovie.Models.Movie>
+@*@model IEnumerable<MvcMovie.Models.Movie>*@
+
+@{
+    ViewData["Title"] = "Index";
+}
+<body style="        background-color: #ffda40
+">
+    <h1>A collection of movies</h1>
+
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+
+    <form asp-action="Index" method="get">
+        <div class="form-actions no-color">
+            <p>
+                Find by name: <input type="text" name="SearchString" value="@ViewData["CurrentFilter"]" />
+                <input type="submit" value="Search" class="btn btn-default" /> |
+                <a asp-action="Index">Back to Full List</a>
+            </p>
+        </div>
+    </form>
+    @*we add Movie.Item in index.cshtml to be able to be display the title..etc, because now exerything is in movieItem*@
+
+
+    <table class="table table table-striped table-dark">
+        <thead>
+            <tr>
+                <th>
+                    Title
+                </th>
+                <th>
+                    Release Date
+                </th>
+                <th>
+                    Genre
+                </th>
+                <th>
+                    Price
+                </th>
+                <th>
+                    Raiting
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Title)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ReleaseDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Genre)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Rating)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    @*@{
+            var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+            var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+        }
+
+        <a asp-action="Index"
+           asp-route-sortOrder="@ViewData["CurrentSort"]"
+           asp-route-pageNumber="@(Model.PageIndex - 1)"
+           asp-route-currentFilter="@ViewData["CurrentFilter"]"
+           class="btn btn-default @prevDisabled">
+            Previous
+        </a>
+        @for (int i = 1; i <= Model.TotalPages; i++)
+        {
+            <a asp-action="Index"
+               asp-route-sortOrder="@ViewData["CurrentSort"]"
+               asp-route-pageNumber="@(i)"
+               asp-route-currentFilter="@ViewData["CurrentFilter"]"
+               class="btn btn-default">
+                @i
+            </a>
+        }
+        <a asp-action="Index"
+           asp-route-sortOrder="@ViewData["CurrentSort"]"
+           asp-route-pageNumber="@(Model.PageIndex + 1)"
+           asp-route-currentFilter="@ViewData["CurrentFilter"]"
+           class="btn btn-default @nextDisabled">
+            Next
+        </a>
+        <br />
+        <div class="float-right">
+            Page @(Model.TotalPages < Model.PageIndex ? 0 : Model.PageIndex) of @Model.TotalPages
+        </div>*@
+    @{ var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+        var nextDisabled = !Model.HasNextPage ? "disabled" : ""; }
+
+
+    @for (int i = 1; i <= Model.TotalPages; i++)
+    {
+        <a asp-action="Index"
+           asp-route-pageNumber="@i"> Page @i  </a>}
+</body>
